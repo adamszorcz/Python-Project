@@ -35,3 +35,16 @@ Propose better solution for feature engineering than the one given by us.
 ### TASK 5 - models
 Propose other prediction models than the one proposed by us. 
 
+### TASK 6 - measures
+After completing task 5, justify why you have chosen this particular model. Compare it with the model proposed by us or with any other model choosen by you.
+
+### TASK 7 - docker
+Prepare a Dockerfile that will allow us to run your code in the container.
+
+### TASK 8 - tests
+Write unit tests covering your code.
+
+### TASK 9 - prediction api
+Prepare a code that will share your model via API. It should be accessible by the HTTP protocol and accept and return data in JSON format
+
+## GOOD LUCK!!!
